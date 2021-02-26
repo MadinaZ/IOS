@@ -26,8 +26,7 @@ Here's a walkthrough of implemented user stories:
 ![3M2Bw28-](https://user-images.githubusercontent.com/42979064/109275432-f0e86680-783e-11eb-91ba-efc8dff63479.gif)
 
 
-View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' />
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="US3PLXi"><a href="https://imgur.com/US3PLXi">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="US3PLXi"><a href="https://imgur.com/US3PLXi">View post on imgur.com</a></blockquote>
 
 
