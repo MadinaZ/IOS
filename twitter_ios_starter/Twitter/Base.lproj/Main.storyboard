@@ -32,6 +32,10 @@
                                     <action selector="onLoginButton:" destination="7Kq-vQ-WxT" eventType="touchUpInside" id="rNg-Ze-2uX"/>
                                 </connections>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="J1a-gd-30Z">
+                                <rect key="frame" x="62" y="169" width="287" height="230"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Eqi-VD-A0G"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -41,12 +45,13 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="loginImage" destination="J1a-gd-30Z" id="ejg-W9-TUM"/>
                         <segue destination="uds-rf-vRU" kind="presentation" identifier="loginToHome" id="GQX-6s-lf1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="p4P-Wk-AQA" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-388" y="176.76161919040482"/>
+            <point key="canvasLocation" x="-388.40579710144931" y="176.11607142857142"/>
         </scene>
         <!--Home-->
         <scene sceneID="Hul-hY-XjG">

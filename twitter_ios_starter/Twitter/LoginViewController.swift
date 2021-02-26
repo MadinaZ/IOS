@@ -11,9 +11,12 @@ import UIKit
 class LoginViewController: UIViewController {
 
 
+    @IBOutlet weak var loginImage: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        loginImage.image = UIImage(named: "TwitterLogoBlue")
         // Do any additional setup after loading the view.
     }
     
